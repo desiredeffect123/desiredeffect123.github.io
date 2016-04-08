@@ -6,28 +6,28 @@ gems:
   - jekyll-redirect-from
   - jekyll-feed
 
-name: "The Blog of Joshua Cox"
+name: "The Blog of Desired Effect"
 description: "Where I blog about Jekyll, techronmancy, docker, and other usually linux related stuff"
-url: http://joshuacox.github.io
-author: Joshua Cox
+url: http://desiredeffect123.github.io
+author: Desired Effect
 locale: eng-US
 
-disqus_id: joshuacoxgithubio
-google_analytics_track_id: UA-69335315-1
+disqus_id: desiredeffect123githubio
+google_analytics_track_id: UA-
 #REQUIRED
 org_site: joshuacox.github.io
-org_url: https://joshuacox.github.io
-org_name: Joshua Cox
+org_url: https://desiredeffect123.github.io
+org_name: desiredeffect123
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  Techromancer
+  Effector
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Have Portable Penetration Testing Hardware - will travel
+  Look and See
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: uberthoth@gmail.com
+org_general_email_inbox: davinciv333@gmail.com
 org_street_address: 1105 West Oltorf #Please include suite number on the line below
-org_address_suite: Suite 100
+org_address_suite: Suite 108
 org_city: Austin
 org_state: TX
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
@@ -36,10 +36,10 @@ org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
   (512) 441-5269
 
 #SOCIAL MEDIA
-github_username: joshuacox
-twitter_username: uberthoth
-facebook_username: uberthoth
-org_instagram_username: uberthoth
+github_username: desiredeffect123
+twitter_username: sitedesigner
+facebook_username: websiteguy
+org_instagram_username: 
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
@@ -53,11 +53,11 @@ fiscal_sponsor_name:
 #To use these services, enter the required usernames. For further instructions, consult the README file.
 #If you do not wish to use a service, simply remove everything after the colon (:), leaving the item blank
 donorbox_campaign_name: free-template-demo
-tinyletter_username: uberthoth
+tinyletter_username: 
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
-publish: true
+publish: false
 
 #THEME
 #Select one of the five color schemes (default, one, two, three, or four)
